@@ -1,0 +1,8 @@
+api_keys:
+  google_ai: "your-gemini-api-key"
+  blogger: "your-blogger-key"
+
+preferences:
+  style: "professional"
+  target_audience: "general"
+  include_visuals: true
