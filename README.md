@@ -162,8 +162,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support:
 1. Open an issue
-2. Email: your.email@example.com
-3. Documentation: [Wiki](link-to-wiki)
+2. Email: vchaitanyachowdari@gmail.com
+3. Documentation: [Link](www.vchaitanyachowdari.wordpress.com)
 
 ## 🔄 Updates
 
